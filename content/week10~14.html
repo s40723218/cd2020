@@ -159,6 +159,16 @@ img.add_border {
 <p><span style="color: #000000;"><span color="#ff0000"><b>gm用戶登錄設置</b></span></span></p>
 <p><span style="color: #000080;"><span color="#ff0000"><b>操作影片:</b></span></span></p>
 <p><strong><span style="color: #ff0000;"><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/xZyuxITCdbY" width="560"></iframe></span></strong></p>
+<p><strong><span style="color: #ff0000;">Week11</span></strong></p>
+<p><span style="color: #000000;"><strong>Ubuntu設定及API連線</strong></span></p>
+<p><span style="color: #000000;">1.下載<a href="https://www.virtualbox.org/wiki/Downloads" style="color: #000000;">vitualbox</a>、<a href="https://drive.google.com/open?id=143jFMheM1xjLxhLkSAouThLzj3WUYX6_" style="color: #000000;">ubuntu</a>、<a href="https://drive.google.com/open?id=1KlnsgBFyp6OpCC_BlYH-jKL4uJixpoBl" style="color: #000000;">CoppeliaSim</a>。<br/>2.開啟vitualbox匯入ubuntu。<br/>3.設定虛擬主機的網路埠號。<br/>4.設定完成後啟動ubuntu輸入密碼kmol2020，並開啟lxterminal。<br/>5.輸入xterm&amp;再輸入ls<br/>6.輸入cd coppeliasim4_rev4-&gt;ls-&gt;cd CoppeliaSim_Edu_v4_0_0_Ubuntu18_04-&gt;ls-&gt;./coppeliaSim.sh。<br/>7.開啟後打開檔案sdc.ttt。<br/>8.開啟啟動器，並開啟下載好的CoppeliaSim四輪車控制器檔案。<br/><br/></span></p>
+<p><span style="color: #000080;"><strong>操作影片</strong></span></p>
+<p><span style="color: #000080;"><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/q0c4Pb3v_m0" width="560"></iframe></strong></span></p>
+<p><span style="color: #000000;"><strong>以ssh對Github連線</strong></span></p>
+<p><span style="color: #000000;">1.去Y槽裡的portablegit將sh_for_solvespace檔案複製並修改成sh.exe。<br/>2.開啟start_mdecourse.bat並輸入sh及ssh-keygen -t rsa -b 4096 -C "40723218"產生key，打上key的產生區域。<br/>3.下載<a href="https://drive.google.com/file/d/1ISq1TJuaZyYZnfU33l-b7ifzmO3ejlEV/view?usp=sharing" rel="nofollow" style="color: #000000;">putty.7z SSH 連線工具組</a>， puttygen.exe 將上述建立的 Openssh keys 轉為 putty 可以辨識的格式。<br/>4.修改啟動的 start.bat 加入下列設定:set GIT_HOME=%Disk%:\portablegit\bin\<br/>set GIT_SSH=%Disk%:\putty\plink.exe<br/>5.將要使用 ssh 連線的倉儲 .git 中的 config 檔案中的 url 設定改為 ssh 連線格式:url = git@github.com:倉儲名稱/cd2020.git。<br/>6.開啟 putty.exe 建立 session &gt;github.com, 指定 Connection &gt; Proxy 與 Connection &gt; SSH &gt; Auth。<br/>7.將下列字串加入編輯器並存儲到y:\home\.ssh\config:<br/>Host github.com<br/>    User git<br/>    Port 22<br/>    Hostname github.com<br/><br/>    TCPKeepAlive yes<br/>    IdentitiesOnly yes<br/>8.將建的OpenSSH的public key內容,送到Github帳號SSH settings中。<br/><br/></span></p>
+<h4><span style="color: #ff0000;"><strong>第三組第四次會議</strong></span></h4>
+<p><span style="color: #000080;"><strong>會議影片</strong></span></p>
+<p><span style="color: #000080;"><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/Dzh81Op7ka0" width="560"></iframe></strong></span></p>
 <br />week6~9 << <a href='week6~9.html'>Previous</a> <a href='week15~18.html'>Next</a> >> week15~18</div>
         
     <!-- footer -->
