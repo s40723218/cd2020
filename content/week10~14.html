@@ -174,6 +174,8 @@ img.add_border {
 <p><span style="color: #000080;"><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/q0c4Pb3v_m0" width="560"></iframe></strong></span></p>
 <p><span style="color: #000000;"><strong>以ssh對Github連線</strong></span></p>
 <p><span style="color: #000000;">1.去Y槽裡的portablegit將sh_for_solvespace檔案複製並修改成sh.exe。<br/>2.開啟start_mdecourse.bat並輸入sh及ssh-keygen -t rsa -b 4096 -C "40723218"產生key，打上key的產生區域。<br/>3.下載<a href="https://drive.google.com/file/d/1ISq1TJuaZyYZnfU33l-b7ifzmO3ejlEV/view?usp=sharing" rel="nofollow" style="color: #000000;">putty.7z SSH 連線工具組</a>， puttygen.exe 將上述建立的 Openssh keys 轉為 putty 可以辨識的格式。<br/>4.修改啟動的 start.bat 加入下列設定:set GIT_HOME=%Disk%:\portablegit\bin\<br/>set GIT_SSH=%Disk%:\putty\plink.exe<br/>5.將要使用 ssh 連線的倉儲 .git 中的 config 檔案中的 url 設定改為 ssh 連線格式:url = git@github.com:倉儲名稱/cd2020.git。<br/>6.開啟 putty.exe 建立 session &gt;github.com, 指定 Connection &gt; Proxy 與 Connection &gt; SSH &gt; Auth。<br/>7.將下列字串加入編輯器並存儲到y:\home\.ssh\config:<br/>Host github.com<br/>    User git<br/>    Port 22<br/>    Hostname github.com<br/><br/>    TCPKeepAlive yes<br/>    IdentitiesOnly yes<br/>8.將建的OpenSSH的public key內容,送到Github帳號SSH settings中。<br/><br/></span></p>
+<p><span style="color: #333399;"><strong>操作影片</strong></span></p>
+<p><span style="color: #000000;"><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/xJQOTr63A4Y" width="560"></iframe></span></p>
 <h4><span style="color: #ff0000;"><strong>第三組第四次會議</strong></span></h4>
 <p><span style="color: #000080;"><strong>會議影片</strong></span></p>
 <p><span style="color: #000080;"><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/Dzh81Op7ka0" width="560"></iframe></strong></span></p>
