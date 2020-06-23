@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,28 +10,70 @@
 <v t="leo.20180902120538.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180902120538.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180902120523.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180902120523.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180902120523.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180902120523.4" a="E"><vh>html</vh>
+<v t="leo.20180902120523.1"><vh>編輯 reveal</vh>
+<v t="leo.20180902120523.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180902120523.3"><vh>@clean index.html</vh>
+<v t="leo.20180902120523.4"><vh>html</vh>
 <v t="leo.20180902120523.5"><vh>head</vh></v>
-<v t="leo.20180902120523.6" a="E"><vh>body</vh>
-<v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20180902120523.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20180902120523.6"><vh>body</vh>
+<v t="leo.20180902120523.7"><vh>reveal div</vh>
+<v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20200623182826.1"><vh>封面</vh>
+<v t="leo.20200623182826.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20200623182824.1"><vh>Week1~5</vh>
+<v t="leo.20200623182824.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623182821.1"><vh>第一次開會</vh>
+<v t="leo.20200623182821.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623182819.1"><vh>Assingment1</vh>
+<v t="leo.20200623182819.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623182817.1"><vh>Week6~9</vh>
+<v t="leo.20200623182817.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623182815.1"><vh>第二次開會</vh>
+<v t="leo.20200623182815.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623182811.1"><vh>Assingment 2</vh>
+<v t="leo.20200623182811.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623182440.1"><vh>期中個人影片</vh>
+<v t="leo.20200623182440.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623182431.1"><vh>Week10~14</vh>
+<v t="leo.20200623182431.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623182428.1"><vh>第三次開會</vh>
+<v t="leo.20200623182428.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200623170227.1"><vh>第四次開會</vh>
+<v t="leo.20200623170227.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623170225.1"><vh>第五次開會</vh>
+<v t="leo.20200623170225.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623170223.1"><vh>Assingment 3</vh>
+<v t="leo.20200623170223.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623170221.1"><vh>Week15~18</vh>
+<v t="leo.20200623170221.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623170218.1"><vh>final project</vh>
+<v t="leo.20200623170218.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623170216.1"><vh>期末報告</vh>
+<v t="leo.20200623170216.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -48,37 +87,6 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
-
-### KMOLab
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -241,15 +249,6 @@ CMSimfly 網際內容管理
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180902120523.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20180902120538.1"></t>
 <t tx="leo.20180902120538.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -326,5 +325,226 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200623170216.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623170216.2">期中個人報告影片
+</t>
+<t tx="leo.20200623170218.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623170218.2">### [final project](https://github.com/s40723218/cd2020/blob/master/downloads/Final%20project.pdf)
+
+</t>
+<t tx="leo.20200623170221.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623170221.2"># [Week15~Week18](https://s40723218.github.io/cd2020/content/week15~18.html)
+
+* FileZilla虛擬主機文件共享設置
+* IPv6對外連線個人倉儲
+* 完成final project報告
+* 完成期末報告
+
+</t>
+<t tx="leo.20200623170223.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623170223.2">### [Assingment3.pdf](https://github.com/s40723218/cd2020/blob/master/downloads/Assignment%203.pdf)
+</t>
+<t tx="leo.20200623170225.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623170225.2">第三組第五次會議
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4fg3xMuP6eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623170227.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623170227.2">第三組第四次會議
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Dzh81Op7ka0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623182428.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623182428.2">第三組第三次會議
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jyIoV8YR-b4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200623182431.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623182431.2"># [Week10~Week14](https://s40723218.github.io/cd2020/content/week10~14.html)
+
+* 進行第三、四、五次會議
+* gm用戶登錄設置
+* Ubuntu設定及API連線
+* IPv4 Ubuntu對外連線設定操作
+* IPv6 遠端控制設定
+* 完成Assingment 3作業
+* mini project抽點
+
+</t>
+<t tx="leo.20200623182440.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623182440.2">期中個人報告影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6IAdfuyypEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200623182811.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623182811.2">### [Assingment2.pdf](https://github.com/s40723218/cd2020/blob/master/downloads/Assignment%202.pdf)</t>
+<t tx="leo.20200623182815.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623182815.2">第三組第二次會議
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IX0Xw1ROTgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200623182817.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623182817.2"># [Week6~Week9](https://s40723218.github.io/cd2020/content/week6~9.html)
+
+* 進行第二次小組會議
+* Python remote api 安裝模組
+* 解決leo閃退問題
+* V-rep更新版本
+* 完成Assingment 2作業
+* 期中個人報告影片</t>
+<t tx="leo.20200623182819.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623182819.2">### [Assingment1.pdf](https://github.com/s40723218/cd2020/blob/master/downloads/Assignment%201%20.pdf)</t>
+<t tx="leo.20200623182821.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623182821.2">第三組第一次會議
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZMKNMympFY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200623182824.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623182824.2"># [Week1~Week5](https://s40723218.github.io/cd2020/content/week1~5.html)
+
+* 建立個人倉儲及編輯網站
+* 將可攜系統的 python3.7.3更新至 python3.8.2版本
+* 進行有效的隨機分組
+* 進行第一次小組會議
+* 完成Assingment 1作業
+</t>
+<t tx="leo.20200623182826.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623182826.2">## s40723218協同產品設計簡報  
+虎科大機械設計工程系 
+
+&lt;small&gt;
+Created by 40723218 林志豪
+&lt;/small&gt;
+
+[個人倉儲](https://github.com/s40723218/cd2020)
+
+[個人網站](https://s40723218.github.io/cd2020/content/index.html)
+</t>
 </tnodes>
 </leo_file>
