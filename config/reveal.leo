@@ -334,7 +334,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623170216.2">期中個人報告影片
+<t tx="leo.20200623170216.2">期末個人報告影片
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/N2Akuujbqjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623170218.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -455,7 +455,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623182811.2">### [Assingment2.pdf](https://github.com/s40723218/cd2020/blob/master/downloads/Assignment%202.pdf)</t>
+<t tx="leo.20200623182811.2">[Assingment2.pdf](https://github.com/s40723218/cd2020/blob/master/downloads/Assignment%202.pdf)
+
+* [Chapter 4 Materials and Processes](https://github.com/s40723218/cd2020/blob/master/downloads/Chapter%204%20Materials%20and%20Processes.pdf)
+</t>
 <t tx="leo.20200623182815.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -495,7 +498,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623182819.2">### [Assingment1.pdf](https://github.com/s40723218/cd2020/blob/master/downloads/Assignment%201%20.pdf)</t>
+<t tx="leo.20200623182819.2"> [Assingment1.pdf](https://github.com/s40723218/cd2020/blob/master/downloads/Assignment%201%20.pdf)
+
+* [將可攜系統的 python3.7.3更新至 python3.8.2](https://github.com/s40723218/cd2020/blob/master/downloads/%E5%B0%87%E5%8F%AF%E6%94%9C%E7%B3%BB%E7%B5%B1%E7%9A%84%20python3.7.3%E6%9B%B4%E6%96%B0%E8%87%B3%20python3.8.2.pdf)
+* [random grouping and roll calling randomly](https://github.com/s40723218/cd2020/blob/master/downloads/random%20grouping%20and%20roll%20calling%20randomly.pdf)
+</t>
 <t tx="leo.20200623182821.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
