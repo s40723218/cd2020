@@ -335,7 +335,7 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20200623170216.2">期中個人報告影片
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/N2Akuujbqjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623170218.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
